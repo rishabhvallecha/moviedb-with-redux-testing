@@ -1,4 +1,4 @@
-## Not used a MonoRepo to build. Only for testing purposes. I have not yet included an middleware with Redux for api calls.
+## Not used a MonoRepo to build. Only for testing purposes. I have not yet included any middleware with Redux for api calls.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
